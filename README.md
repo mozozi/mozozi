@@ -1,7 +1,7 @@
 # 🕹️ adhwa.exe
 <p align="center">
   <video autoplay muted loop playsinline width="400">
-    <source src="https://your-video-link.mp4" type="video/mp4">
+    <source src="[https://your-video-link.mp4](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3ZGFoOXUyN21ud2Y5cGU2c293cnJ2Y3dibndoeGx6NGNxZ205ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)" type="video/mp4">
   </video>
 </p>
 <p align="center">

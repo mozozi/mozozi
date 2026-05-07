@@ -27,7 +27,7 @@
 ## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg)" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---

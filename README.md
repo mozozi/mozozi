@@ -3,6 +3,13 @@
 </p>
 
 ---
+## 📊 SYSTEM STATS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
 
 ## 👾 STATUS
 
@@ -23,15 +30,6 @@
 </p>
 
 ---
-
-## 📊 SYSTEM STATS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## 🕹️ CURRENT QUESTS
 
 * 🔹 Learn JavaScript deeper

@@ -1,7 +1,7 @@
 # 🕹️ ADHWA
 <p align="center">
   <img autoplay muted loop playsinline width="400">
-    <source src="https://wallpapercave.com/wp/wp10494700.jpg">
+    <img src="https://wallpapercave.com/wp/wp10494700.jpg">
   </img>
 </p>
 <p align="center">

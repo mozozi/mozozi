@@ -37,14 +37,6 @@
 
 ---
 
-## 🧬 ACTIVITY
-
-<p align="center">
-  <img src="https://github.com/mozozi/mozozi/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🕹️ CURRENT QUESTS
 
 * 🔹 Learn JavaScript deeper

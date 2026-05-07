@@ -23,7 +23,7 @@
 ## 🎮 SKILLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,react,git," />
+  <img src="https://skillicons.dev/icons?i=php,html,react,css,git," />
 
 </p>
 

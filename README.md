@@ -32,7 +32,7 @@
 ## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="https://github.com/mozozi/mozozi/blob/output/github-contribution-grid-snake.gif/>
+  <img src="https://raw.githubusercontent.com/mozozi/mozozi/blob/output/github-contribution-grid-snake.gif/>
 </p>
 
 ---

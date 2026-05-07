@@ -32,7 +32,7 @@
 ## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozozi&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <img src="https://github.com/mozozi/mozozi/blob/output/github-contribution-grid-snake.gif/>
 </p>
 
 ---

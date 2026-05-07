@@ -23,8 +23,7 @@
 ## 🎮 SKILLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,git,linux&theme=dark" />
-  <img src="pixelarticons/svg/php.svg" width="24" height="24" alt="Php" />
+  <img src="https://skillicons.dev/icons?i=php,python,git,linux&theme=dark" />
 
 </p>
 

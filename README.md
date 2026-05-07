@@ -1,4 +1,3 @@
-# 🕹️ ADHWA
 <p align="center">
   <img autoplay muted loop playsinline width="400">
     <img src="https://wallpapercave.com/wp/wp10494739.jpg">
@@ -10,7 +9,7 @@
 
 ---
 
-## 👾 PLAYER STATUS
+## 👾 STATUS
 
 ```bash id="v08w8x"
 > USER: mozozi

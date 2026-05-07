@@ -1,9 +1,4 @@
 <p align="center">
-  <img autoplay muted loop playsinline width="400">
-    <img src="https://wallpapercave.com/wp/wp10494739.jpg">
-  </img>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=LOADING+DEVELOPER...;INITIALIZING+SYSTEM...;WELCOME+TO+MY+PROFILE" />
 </p>
 
@@ -32,7 +27,7 @@
 ## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mozozi/mozozi/blob/output/github-contribution-grid-snake.gif/>
+  <img src="[https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mozozi/mozozi/output/github-contribution-grid-snake.svg)" alt="Snake Animation" />
 </p>
 
 ---
